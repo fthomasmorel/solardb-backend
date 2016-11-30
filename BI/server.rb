@@ -16,12 +16,50 @@ before do
   content_type 'application/json'
 end
 
-get '/all' do
-    getAllProduction().to_json
+get '/weather/day' do
+    return 406 if !params[:date]
+    date = params[:date]
+    date = Date.parse(date)
+    getWeatherForDay(date).to_json
 end
 
-get '/weather' do
-    getWeatherForDay(Date.today).to_json
+get '/weather/month' do
+    return 406 if !params[:date]
+    date = params[:date]
+    date = Date.parse(date)
+    getWeatherForMonth(date).to_json
+end
+
+get '/weather/year' do
+    return 406 if !params[:date]
+    date = params[:date]
+    date = Date.parse(date)
+    getWeatherForYear(date).to_json
+end
+
+get '/weather/:criteria/day' do
+    return 406 if !params[:date]
+    date = params[:date]
+    date = Date.parse(date)
+    getWeatherCritieraForDay(params[:criteria], date).to_json
+end
+
+get '/weather/:criteria/month' do
+    return 406 if !params[:date]
+    date = params[:date]
+    date = Date.parse(date)
+    getWeatherCritieraForMonth(params[:criteria], date).to_json
+end
+
+get '/weather/:criteria/year' do
+    return 406 if !params[:date]
+    date = params[:date]
+    date = Date.parse(date)
+    getWeatherCritieraForYear(params[:criteria], date).to_json
+end
+
+get '/production/all' do
+    getAllProduction().to_json
 end
 
 get '/production/day' do

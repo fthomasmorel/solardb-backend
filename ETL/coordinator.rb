@@ -6,16 +6,29 @@ require 'date'
 config = ParseConfig.new('/var/solardb/etl.conf')
 db = Mongo::Client.new(["#{config['DB_HOST']}:#{config['DB_PORT']}"], :database => config['DB_NAME'])
 
-year = Date.today.strftime("%Y").to_i
-month = Date.today.strftime("%m").to_i
-day = Date.today.strftime("%d").to_i
+# 
+# puts "date;temperature;humidity;windSpeed;cloudCover;production"
+# productions = db[:production].find()
+# for weather in db[:weather].find() do
+#     production = 0
+#     day = weather['date']
+#     prods = productions.select do |prod| prod['date'] == "#{day.strftime("%m")}/#{day.strftime("%d")}/#{day.strftime("%Y")}" end
+#     production = prods.first['production'] if prods.length > 0
+#     puts "#{day};#{weather['temperature']};#{weather['humidity']};#{weather['windSpeed']};#{weather['cloudCover']};#{production}"
+# end
 
-airquality = parseAirQuality(config['AQCITY'])
-sunshine = parseSunshineRate(config['MCCITY'], day-1, month, year)
-weather = parseWeather(config['YHCITY'])
 
-db[:air].insert_one({:date => Date.today, :quality => airquality}) if airquality > 0
-db[:sun].insert_one({:date => Date.today, :sunshine => sunshine}) if sunshine > 0
-db[:weather].insert_one(weather.to_json)
 
-puts db[:weather].find.to_a.to_json
+
+
+# dateStart = Date.parse("01/01/2015")
+# dateEnd = Date.today
+#
+# db[:weather].delete_many({})
+#
+# for date in dateStart...dateEnd do
+#     sunshine = parseSunshineRate(config['MCCITY'], date)
+#     temperature, humidity, windSpeed, cloudCover, classe = parseWeather(date)
+#     weather = Weather.new(date, temperature, humidity, windSpeed, cloudCover, sunshine, classe)
+#     db[:weather].insert_one(weather.to_json)
+# end
