@@ -14,6 +14,11 @@ end
 
 before do
   content_type 'application/json'
+  request.body.rewind
+end
+
+get '/weather/all' do
+    getAllWeather().to_json
 end
 
 get '/weather/day' do
@@ -60,6 +65,13 @@ end
 
 get '/production/all' do
     getAllProduction().to_json
+end
+
+post '/production' do
+    production = JSON.parse request.body.read
+    result = recordProduction(production)
+    return 200 if result
+    return 406
 end
 
 get '/production/day' do

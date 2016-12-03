@@ -1,0 +1,3437 @@
+[
+  {
+    "date": "11/16/2016",
+    "production": 1,
+    "total": 23592
+  },
+  {
+    "date": "11/15/2016",
+    "production": 1,
+    "total": 23591
+  },
+  {
+    "date": "11/14/2016",
+    "production": 7,
+    "total": 23590
+  },
+  {
+    "date": "11/13/2016",
+    "production": 9,
+    "total": 23583
+  },
+  {
+    "date": "11/12/2016",
+    "production": 1,
+    "total": 23574
+  },
+  {
+    "date": "11/11/2016",
+    "production": 9,
+    "total": 23573
+  },
+  {
+    "date": "11/10/2016",
+    "production": 3,
+    "total": 23564
+  },
+  {
+    "date": "11/09/2016",
+    "production": 8,
+    "total": 23561
+  },
+  {
+    "date": "11/08/2016",
+    "production": 5,
+    "total": 23553
+  },
+  {
+    "date": "11/07/2016",
+    "production": 8,
+    "total": 23548
+  },
+  {
+    "date": "11/06/2016",
+    "production": 8,
+    "total": 23540
+  },
+  {
+    "date": "11/05/2016",
+    "production": 8,
+    "total": 23532
+  },
+  {
+    "date": "11/04/2016",
+    "production": 3,
+    "total": 23524
+  },
+  {
+    "date": "11/03/2016",
+    "production": 13,
+    "total": 23521
+  },
+  {
+    "date": "11/02/2016",
+    "production": 4,
+    "total": 23508
+  },
+  {
+    "date": "11/01/2016",
+    "production": 11,
+    "total": 23504
+  },
+  {
+    "date": "10/31/2016",
+    "production": 13,
+    "total": 23493
+  },
+  {
+    "date": "10/30/2016",
+    "production": 13,
+    "total": 23480
+  },
+  {
+    "date": "10/29/2016",
+    "production": 13,
+    "total": 23467
+  },
+  {
+    "date": "10/28/2016",
+    "production": 7,
+    "total": 23454
+  },
+  {
+    "date": "10/27/2016",
+    "production": 0,
+    "total": 23447
+  },
+  {
+    "date": "10/26/2016",
+    "production": 3,
+    "total": 23447
+  },
+  {
+    "date": "10/25/2016",
+    "production": 5,
+    "total": 23444
+  },
+  {
+    "date": "10/24/2016",
+    "production": 3,
+    "total": 23439
+  },
+  {
+    "date": "10/23/2016",
+    "production": 0,
+    "total": 23436
+  },
+  {
+    "date": "10/22/2016",
+    "production": 0,
+    "total": 23436
+  },
+  {
+    "date": "10/21/2016",
+    "production": 13,
+    "total": 23436
+  },
+  {
+    "date": "10/20/2016",
+    "production": 12,
+    "total": 23423
+  },
+  {
+    "date": "10/19/2016",
+    "production": 4,
+    "total": 23411
+  },
+  {
+    "date": "10/18/2016",
+    "production": 5,
+    "total": 23407
+  },
+  {
+    "date": "10/17/2016",
+    "production": 5,
+    "total": 23402
+  },
+  {
+    "date": "10/16/2016",
+    "production": 10,
+    "total": 23397
+  },
+  {
+    "date": "10/15/2016",
+    "production": 7,
+    "total": 23387
+  },
+  {
+    "date": "10/14/2016",
+    "production": 5,
+    "total": 23380
+  },
+  {
+    "date": "10/13/2016",
+    "production": 3,
+    "total": 23375
+  },
+  {
+    "date": "10/12/2016",
+    "production": 11,
+    "total": 23372
+  },
+  {
+    "date": "10/11/2016",
+    "production": 10,
+    "total": 23361
+  },
+  {
+    "date": "10/10/2016",
+    "production": 13,
+    "total": 23351
+  },
+  {
+    "date": "10/09/2016",
+    "production": 12,
+    "total": 23338
+  },
+  {
+    "date": "10/08/2016",
+    "production": 5,
+    "total": 23326
+  },
+  {
+    "date": "10/07/2016",
+    "production": 5,
+    "total": 23321
+  },
+  {
+    "date": "10/06/2016",
+    "production": 6,
+    "total": 23316
+  },
+  {
+    "date": "10/05/2016",
+    "production": 15,
+    "total": 23310
+  },
+  {
+    "date": "10/04/2016",
+    "production": 10,
+    "total": 23295
+  },
+  {
+    "date": "10/03/2016",
+    "production": 22,
+    "total": 23285
+  },
+  {
+    "date": "10/02/2016",
+    "production": 14,
+    "total": 23263
+  },
+  {
+    "date": "10/01/2016",
+    "production": 10,
+    "total": 23249
+  },
+  {
+    "date": "09/30/2016",
+    "production": 5,
+    "total": 23239
+  },
+  {
+    "date": "09/29/2016",
+    "production": 12,
+    "total": 23234
+  },
+  {
+    "date": "09/28/2016",
+    "production": 0,
+    "total": 23222
+  },
+  {
+    "date": "09/27/2016",
+    "production": 3,
+    "total": 23222
+  },
+  {
+    "date": "09/26/2016",
+    "production": 10,
+    "total": 23219
+  },
+  {
+    "date": "09/25/2016",
+    "production": 12,
+    "total": 23209
+  },
+  {
+    "date": "09/24/2016",
+    "production": 10,
+    "total": 23197
+  },
+  {
+    "date": "09/23/2016",
+    "production": 20,
+    "total": 23187
+  },
+  {
+    "date": "09/22/2016",
+    "production": 0,
+    "total": 23167
+  },
+  {
+    "date": "09/21/2016",
+    "production": 11,
+    "total": 23167
+  },
+  {
+    "date": "09/20/2016",
+    "production": 10,
+    "total": 23156
+  },
+  {
+    "date": "09/19/2016",
+    "production": 9,
+    "total": 23146
+  },
+  {
+    "date": "09/18/2016",
+    "production": 5,
+    "total": 23137
+  },
+  {
+    "date": "09/17/2016",
+    "production": 9,
+    "total": 23132
+  },
+  {
+    "date": "09/16/2016",
+    "production": 7,
+    "total": 23123
+  },
+  {
+    "date": "09/15/2016",
+    "production": 5,
+    "total": 23116
+  },
+  {
+    "date": "09/14/2016",
+    "production": 11,
+    "total": 23111
+  },
+  {
+    "date": "09/13/2016",
+    "production": 8,
+    "total": 23100
+  },
+  {
+    "date": "09/12/2016",
+    "production": 9,
+    "total": 23092
+  },
+  {
+    "date": "09/11/2016",
+    "production": 11,
+    "total": 23083
+  },
+  {
+    "date": "09/10/2016",
+    "production": 7,
+    "total": 23072
+  },
+  {
+    "date": "09/09/2016",
+    "production": 11,
+    "total": 23065
+  },
+  {
+    "date": "09/08/2016",
+    "production": 14,
+    "total": 23054
+  },
+  {
+    "date": "09/07/2016",
+    "production": 13,
+    "total": 23040
+  },
+  {
+    "date": "09/06/2016",
+    "production": 9,
+    "total": 23027
+  },
+  {
+    "date": "09/05/2016",
+    "production": 7,
+    "total": 23018
+  },
+  {
+    "date": "09/04/2016",
+    "production": 16,
+    "total": 23011
+  },
+  {
+    "date": "09/03/2016",
+    "production": 0,
+    "total": 22995
+  },
+  {
+    "date": "09/02/2016",
+    "production": 13,
+    "total": 22995
+  },
+  {
+    "date": "09/01/2016",
+    "production": 13,
+    "total": 22982
+  },
+  {
+    "date": "08/31/2016",
+    "production": 14,
+    "total": 22969
+  },
+  {
+    "date": "08/30/2016",
+    "production": 14,
+    "total": 22955
+  },
+  {
+    "date": "08/29/2016",
+    "production": 11,
+    "total": 22941
+  },
+  {
+    "date": "08/28/2016",
+    "production": 48,
+    "total": 22930
+  },
+  {
+    "date": "08/27/2016",
+    "production": 0,
+    "total": 22882
+  },
+  {
+    "date": "08/26/2016",
+    "production": 0,
+    "total": 22882
+  },
+  {
+    "date": "08/25/2016",
+    "production": 0,
+    "total": 22882
+  },
+  {
+    "date": "08/24/2016",
+    "production": 12,
+    "total": 22882
+  },
+  {
+    "date": "08/23/2016",
+    "production": 14,
+    "total": 22870
+  },
+  {
+    "date": "08/22/2016",
+    "production": 7,
+    "total": 22856
+  },
+  {
+    "date": "08/21/2016",
+    "production": 21,
+    "total": 22849
+  },
+  {
+    "date": "08/20/2016",
+    "production": 13,
+    "total": 22828
+  },
+  {
+    "date": "08/19/2016",
+    "production": 6,
+    "total": 22815
+  },
+  {
+    "date": "08/18/2016",
+    "production": 6,
+    "total": 22809
+  },
+  {
+    "date": "08/17/2016",
+    "production": 9,
+    "total": 22803
+  },
+  {
+    "date": "08/16/2016",
+    "production": 14,
+    "total": 22794
+  },
+  {
+    "date": "08/15/2016",
+    "production": 15,
+    "total": 22780
+  },
+  {
+    "date": "08/14/2016",
+    "production": 28,
+    "total": 22765
+  },
+  {
+    "date": "08/13/2016",
+    "production": 0,
+    "total": 22737
+  },
+  {
+    "date": "08/12/2016",
+    "production": 14,
+    "total": 22737
+  },
+  {
+    "date": "08/11/2016",
+    "production": 14,
+    "total": 22723
+  },
+  {
+    "date": "08/10/2016",
+    "production": 13,
+    "total": 22709
+  },
+  {
+    "date": "08/09/2016",
+    "production": 12,
+    "total": 22696
+  },
+  {
+    "date": "08/08/2016",
+    "production": 6,
+    "total": 22684
+  },
+  {
+    "date": "08/07/2016",
+    "production": 123,
+    "total": 22678
+  },
+  {
+    "date": "08/06/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "08/05/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "08/04/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "08/03/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "08/02/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "08/01/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/31/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/30/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/29/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/28/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/27/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/26/2016",
+    "production": 0,
+    "total": 22555
+  },
+  {
+    "date": "07/25/2016",
+    "production": 10,
+    "total": 22555
+  },
+  {
+    "date": "07/24/2016",
+    "production": 14,
+    "total": 22545
+  },
+  {
+    "date": "07/23/2016",
+    "production": 9,
+    "total": 22531
+  },
+  {
+    "date": "07/22/2016",
+    "production": 13,
+    "total": 22522
+  },
+  {
+    "date": "07/21/2016",
+    "production": 11,
+    "total": 22509
+  },
+  {
+    "date": "07/20/2016",
+    "production": 13,
+    "total": 22498
+  },
+  {
+    "date": "07/19/2016",
+    "production": 14,
+    "total": 22485
+  },
+  {
+    "date": "07/18/2016",
+    "production": 14,
+    "total": 22471
+  },
+  {
+    "date": "07/17/2016",
+    "production": 14,
+    "total": 22457
+  },
+  {
+    "date": "07/16/2016",
+    "production": 14,
+    "total": 22443
+  },
+  {
+    "date": "07/15/2016",
+    "production": 15,
+    "total": 22429
+  },
+  {
+    "date": "07/14/2016",
+    "production": 10,
+    "total": 22414
+  },
+  {
+    "date": "07/13/2016",
+    "production": 10,
+    "total": 22404
+  },
+  {
+    "date": "07/12/2016",
+    "production": 8,
+    "total": 22394
+  },
+  {
+    "date": "07/11/2016",
+    "production": 11,
+    "total": 22386
+  },
+  {
+    "date": "07/10/2016",
+    "production": 5,
+    "total": 22375
+  },
+  {
+    "date": "07/09/2016",
+    "production": 8,
+    "total": 22370
+  },
+  {
+    "date": "07/08/2016",
+    "production": 14,
+    "total": 22362
+  },
+  {
+    "date": "07/07/2016",
+    "production": 14,
+    "total": 22348
+  },
+  {
+    "date": "07/06/2016",
+    "production": 15,
+    "total": 22334
+  },
+  {
+    "date": "07/05/2016",
+    "production": 7,
+    "total": 22319
+  },
+  {
+    "date": "07/04/2016",
+    "production": 7,
+    "total": 22312
+  },
+  {
+    "date": "07/03/2016",
+    "production": 5,
+    "total": 22305
+  },
+  {
+    "date": "07/02/2016",
+    "production": 12,
+    "total": 22300
+  },
+  {
+    "date": "07/01/2016",
+    "production": 49,
+    "total": 22288
+  },
+  {
+    "date": "06/30/2016",
+    "production": 0,
+    "total": 22239
+  },
+  {
+    "date": "06/29/2016",
+    "production": 0,
+    "total": 22239
+  },
+  {
+    "date": "06/28/2016",
+    "production": 0,
+    "total": 22239
+  },
+  {
+    "date": "06/27/2016",
+    "production": 0,
+    "total": 22239
+  },
+  {
+    "date": "06/26/2016",
+    "production": 0,
+    "total": 22239
+  },
+  {
+    "date": "06/25/2016",
+    "production": 10,
+    "total": 22239
+  },
+  {
+    "date": "06/24/2016",
+    "production": 15,
+    "total": 22229
+  },
+  {
+    "date": "06/23/2016",
+    "production": 6,
+    "total": 22214
+  },
+  {
+    "date": "06/22/2016",
+    "production": 10,
+    "total": 22208
+  },
+  {
+    "date": "06/21/2016",
+    "production": 5,
+    "total": 22198
+  },
+  {
+    "date": "06/20/2016",
+    "production": 3,
+    "total": 22193
+  },
+  {
+    "date": "06/19/2016",
+    "production": 9,
+    "total": 22190
+  },
+  {
+    "date": "06/18/2016",
+    "production": 7,
+    "total": 22181
+  },
+  {
+    "date": "06/17/2016",
+    "production": 7,
+    "total": 22174
+  },
+  {
+    "date": "06/16/2016",
+    "production": 12,
+    "total": 22167
+  },
+  {
+    "date": "06/15/2016",
+    "production": 11,
+    "total": 22155
+  },
+  {
+    "date": "06/14/2016",
+    "production": 9,
+    "total": 22144
+  },
+  {
+    "date": "06/13/2016",
+    "production": 4,
+    "total": 22135
+  },
+  {
+    "date": "06/12/2016",
+    "production": 8,
+    "total": 22131
+  },
+  {
+    "date": "06/11/2016",
+    "production": 6,
+    "total": 22123
+  },
+  {
+    "date": "06/10/2016",
+    "production": 5,
+    "total": 22117
+  },
+  {
+    "date": "06/09/2016",
+    "production": 12,
+    "total": 22112
+  },
+  {
+    "date": "06/08/2016",
+    "production": 14,
+    "total": 22100
+  },
+  {
+    "date": "06/07/2016",
+    "production": 13,
+    "total": 22086
+  },
+  {
+    "date": "06/06/2016",
+    "production": 9,
+    "total": 22073
+  },
+  {
+    "date": "06/05/2016",
+    "production": 11,
+    "total": 22064
+  },
+  {
+    "date": "06/04/2016",
+    "production": 10,
+    "total": 22053
+  },
+  {
+    "date": "06/03/2016",
+    "production": 5,
+    "total": 22043
+  },
+  {
+    "date": "06/02/2016",
+    "production": 6,
+    "total": 22038
+  },
+  {
+    "date": "06/01/2016",
+    "production": 29,
+    "total": 22032
+  },
+  {
+    "date": "05/31/2016",
+    "production": 0,
+    "total": 22003
+  },
+  {
+    "date": "05/30/2016",
+    "production": 0,
+    "total": 22003
+  },
+  {
+    "date": "05/29/2016",
+    "production": 16,
+    "total": 22003
+  },
+  {
+    "date": "05/28/2016",
+    "production": 0,
+    "total": 21987
+  },
+  {
+    "date": "05/27/2016",
+    "production": 12,
+    "total": 21987
+  },
+  {
+    "date": "05/26/2016",
+    "production": 0,
+    "total": 21975
+  },
+  {
+    "date": "05/25/2016",
+    "production": 10,
+    "total": 21975
+  },
+  {
+    "date": "05/24/2016",
+    "production": 9,
+    "total": 21965
+  },
+  {
+    "date": "05/23/2016",
+    "production": 14,
+    "total": 21956
+  },
+  {
+    "date": "05/22/2016",
+    "production": 10,
+    "total": 21942
+  },
+  {
+    "date": "05/21/2016",
+    "production": 5,
+    "total": 21932
+  },
+  {
+    "date": "05/20/2016",
+    "production": 12,
+    "total": 21927
+  },
+  {
+    "date": "05/19/2016",
+    "production": 19,
+    "total": 21915
+  },
+  {
+    "date": "05/18/2016",
+    "production": 10,
+    "total": 21896
+  },
+  {
+    "date": "05/17/2016",
+    "production": 8,
+    "total": 21886
+  },
+  {
+    "date": "05/16/2016",
+    "production": 9,
+    "total": 21878
+  },
+  {
+    "date": "05/15/2016",
+    "production": 15,
+    "total": 21869
+  },
+  {
+    "date": "05/14/2016",
+    "production": 8,
+    "total": 21854
+  },
+  {
+    "date": "05/13/2016",
+    "production": 8,
+    "total": 21846
+  },
+  {
+    "date": "05/12/2016",
+    "production": 0,
+    "total": 21838
+  },
+  {
+    "date": "05/11/2016",
+    "production": 5,
+    "total": 21838
+  },
+  {
+    "date": "05/10/2016",
+    "production": 10,
+    "total": 21833
+  },
+  {
+    "date": "05/09/2016",
+    "production": 6,
+    "total": 21823
+  },
+  {
+    "date": "05/08/2016",
+    "production": 9,
+    "total": 21817
+  },
+  {
+    "date": "05/07/2016",
+    "production": 8,
+    "total": 21808
+  },
+  {
+    "date": "05/06/2016",
+    "production": 12,
+    "total": 21800
+  },
+  {
+    "date": "05/05/2016",
+    "production": 32,
+    "total": 21788
+  },
+  {
+    "date": "05/04/2016",
+    "production": 0,
+    "total": 21756
+  },
+  {
+    "date": "05/03/2016",
+    "production": 14,
+    "total": 21756
+  },
+  {
+    "date": "05/02/2016",
+    "production": 9,
+    "total": 21742
+  },
+  {
+    "date": "05/01/2016",
+    "production": 16,
+    "total": 21733
+  },
+  {
+    "date": "04/30/2016",
+    "production": 15,
+    "total": 21717
+  },
+  {
+    "date": "04/29/2016",
+    "production": 10,
+    "total": 21702
+  },
+  {
+    "date": "04/28/2016",
+    "production": 11,
+    "total": 21692
+  },
+  {
+    "date": "04/27/2016",
+    "production": 9,
+    "total": 21681
+  },
+  {
+    "date": "04/26/2016",
+    "production": 9,
+    "total": 21672
+  },
+  {
+    "date": "04/25/2016",
+    "production": 6,
+    "total": 21663
+  },
+  {
+    "date": "04/24/2016",
+    "production": 8,
+    "total": 21657
+  },
+  {
+    "date": "04/23/2016",
+    "production": 6,
+    "total": 21649
+  },
+  {
+    "date": "04/22/2016",
+    "production": 8,
+    "total": 21643
+  },
+  {
+    "date": "04/21/2016",
+    "production": 5,
+    "total": 21635
+  },
+  {
+    "date": "04/20/2016",
+    "production": 7,
+    "total": 21630
+  },
+  {
+    "date": "04/19/2016",
+    "production": 16,
+    "total": 21623
+  },
+  {
+    "date": "04/18/2016",
+    "production": 16,
+    "total": 21607
+  },
+  {
+    "date": "04/17/2016",
+    "production": 9,
+    "total": 21591
+  },
+  {
+    "date": "04/16/2016",
+    "production": 11,
+    "total": 21582
+  },
+  {
+    "date": "04/15/2016",
+    "production": 15,
+    "total": 21571
+  },
+  {
+    "date": "04/14/2016",
+    "production": 2,
+    "total": 21556
+  },
+  {
+    "date": "04/13/2016",
+    "production": 11,
+    "total": 21554
+  },
+  {
+    "date": "04/12/2016",
+    "production": 11,
+    "total": 21543
+  },
+  {
+    "date": "04/11/2016",
+    "production": 13,
+    "total": 21532
+  },
+  {
+    "date": "04/10/2016",
+    "production": 6,
+    "total": 21519
+  },
+  {
+    "date": "04/09/2016",
+    "production": 36,
+    "total": 21513
+  },
+  {
+    "date": "04/08/2016",
+    "production": 0,
+    "total": 21477
+  },
+  {
+    "date": "04/07/2016",
+    "production": 5,
+    "total": 21477
+  },
+  {
+    "date": "04/06/2016",
+    "production": 8,
+    "total": 21472
+  },
+  {
+    "date": "04/05/2016",
+    "production": 10,
+    "total": 21464
+  },
+  {
+    "date": "04/04/2016",
+    "production": 15,
+    "total": 21454
+  },
+  {
+    "date": "04/03/2016",
+    "production": 0,
+    "total": 21439
+  },
+  {
+    "date": "04/02/2016",
+    "production": 0,
+    "total": 21439
+  },
+  {
+    "date": "04/01/2016",
+    "production": 15,
+    "total": 21439
+  },
+  {
+    "date": "03/31/2016",
+    "production": 10,
+    "total": 21424
+  },
+  {
+    "date": "03/30/2016",
+    "production": 3,
+    "total": 21414
+  },
+  {
+    "date": "03/29/2016",
+    "production": 9,
+    "total": 21411
+  },
+  {
+    "date": "03/28/2016",
+    "production": 10,
+    "total": 21402
+  },
+  {
+    "date": "03/27/2016",
+    "production": 8,
+    "total": 21392
+  },
+  {
+    "date": "03/26/2016",
+    "production": 3,
+    "total": 21384
+  },
+  {
+    "date": "03/25/2016",
+    "production": 11,
+    "total": 21381
+  },
+  {
+    "date": "03/24/2016",
+    "production": 7,
+    "total": 21370
+  },
+  {
+    "date": "03/23/2016",
+    "production": 15,
+    "total": 21363
+  },
+  {
+    "date": "03/22/2016",
+    "production": 11,
+    "total": 21348
+  },
+  {
+    "date": "03/21/2016",
+    "production": 8,
+    "total": 21337
+  },
+  {
+    "date": "03/20/2016",
+    "production": 14,
+    "total": 21329
+  },
+  {
+    "date": "03/19/2016",
+    "production": 12,
+    "total": 21315
+  },
+  {
+    "date": "03/18/2016",
+    "production": 14,
+    "total": 21303
+  },
+  {
+    "date": "03/17/2016",
+    "production": 14,
+    "total": 21289
+  },
+  {
+    "date": "03/16/2016",
+    "production": 11,
+    "total": 21275
+  },
+  {
+    "date": "03/15/2016",
+    "production": 15,
+    "total": 21264
+  },
+  {
+    "date": "03/14/2016",
+    "production": 13,
+    "total": 21249
+  },
+  {
+    "date": "03/13/2016",
+    "production": 15,
+    "total": 21236
+  },
+  {
+    "date": "03/12/2016",
+    "production": 12,
+    "total": 21221
+  },
+  {
+    "date": "03/11/2016",
+    "production": 3,
+    "total": 21209
+  },
+  {
+    "date": "03/10/2016",
+    "production": 2,
+    "total": 21206
+  },
+  {
+    "date": "03/09/2016",
+    "production": 5,
+    "total": 21204
+  },
+  {
+    "date": "03/08/2016",
+    "production": 5,
+    "total": 21199
+  },
+  {
+    "date": "03/07/2016",
+    "production": 18,
+    "total": 21194
+  },
+  {
+    "date": "03/06/2016",
+    "production": 0,
+    "total": 21176
+  },
+  {
+    "date": "03/05/2016",
+    "production": 57,
+    "total": 21176
+  },
+  {
+    "date": "03/04/2016",
+    "production": 0,
+    "total": 21119
+  },
+  {
+    "date": "03/03/2016",
+    "production": 0,
+    "total": 21119
+  },
+  {
+    "date": "03/02/2016",
+    "production": 0,
+    "total": 21119
+  },
+  {
+    "date": "03/01/2016",
+    "production": 0,
+    "total": 21119
+  },
+  {
+    "date": "02/29/2016",
+    "production": 0,
+    "total": 21119
+  },
+  {
+    "date": "02/28/2016",
+    "production": 0,
+    "total": 21119
+  },
+  {
+    "date": "02/27/2016",
+    "production": 11,
+    "total": 21119
+  },
+  {
+    "date": "02/26/2016",
+    "production": 10,
+    "total": 21108
+  },
+  {
+    "date": "02/25/2016",
+    "production": 10,
+    "total": 21098
+  },
+  {
+    "date": "02/24/2016",
+    "production": 1,
+    "total": 21088
+  },
+  {
+    "date": "02/23/2016",
+    "production": 5,
+    "total": 21087
+  },
+  {
+    "date": "02/22/2016",
+    "production": 2,
+    "total": 21082
+  },
+  {
+    "date": "02/21/2016",
+    "production": 1,
+    "total": 21080
+  },
+  {
+    "date": "02/20/2016",
+    "production": 2,
+    "total": 21079
+  },
+  {
+    "date": "02/19/2016",
+    "production": 7,
+    "total": 21077
+  },
+  {
+    "date": "02/18/2016",
+    "production": 11,
+    "total": 21070
+  },
+  {
+    "date": "02/17/2016",
+    "production": 5,
+    "total": 21059
+  },
+  {
+    "date": "02/16/2016",
+    "production": 11,
+    "total": 21054
+  },
+  {
+    "date": "02/15/2016",
+    "production": 12,
+    "total": 21043
+  },
+  {
+    "date": "02/14/2016",
+    "production": 9,
+    "total": 21031
+  },
+  {
+    "date": "02/13/2016",
+    "production": 4,
+    "total": 21022
+  },
+  {
+    "date": "02/12/2016",
+    "production": 8,
+    "total": 21018
+  },
+  {
+    "date": "02/11/2016",
+    "production": 8,
+    "total": 21010
+  },
+  {
+    "date": "02/10/2016",
+    "production": 11,
+    "total": 21002
+  },
+  {
+    "date": "02/09/2016",
+    "production": 5,
+    "total": 20991
+  },
+  {
+    "date": "02/08/2016",
+    "production": 8,
+    "total": 20986
+  },
+  {
+    "date": "02/07/2016",
+    "production": 8,
+    "total": 20978
+  },
+  {
+    "date": "02/06/2016",
+    "production": 2,
+    "total": 20970
+  },
+  {
+    "date": "02/05/2016",
+    "production": 1,
+    "total": 20968
+  },
+  {
+    "date": "02/04/2016",
+    "production": 1,
+    "total": 20967
+  },
+  {
+    "date": "02/03/2016",
+    "production": 12,
+    "total": 20966
+  },
+  {
+    "date": "02/02/2016",
+    "production": 2,
+    "total": 20954
+  },
+  {
+    "date": "02/01/2016",
+    "production": 1,
+    "total": 20952
+  },
+  {
+    "date": "01/31/2016",
+    "production": 1,
+    "total": 20951
+  },
+  {
+    "date": "01/30/2016",
+    "production": 1,
+    "total": 20950
+  },
+  {
+    "date": "01/29/2016",
+    "production": 2,
+    "total": 20949
+  },
+  {
+    "date": "01/28/2016",
+    "production": 6,
+    "total": 20947
+  },
+  {
+    "date": "01/27/2016",
+    "production": 0,
+    "total": 20941
+  },
+  {
+    "date": "01/26/2016",
+    "production": 6,
+    "total": 20941
+  },
+  {
+    "date": "01/25/2016",
+    "production": 6,
+    "total": 20935
+  },
+  {
+    "date": "01/24/2016",
+    "production": 9,
+    "total": 20929
+  },
+  {
+    "date": "01/23/2016",
+    "production": 2,
+    "total": 20920
+  },
+  {
+    "date": "01/22/2016",
+    "production": 1,
+    "total": 20918
+  },
+  {
+    "date": "01/21/2016",
+    "production": 1,
+    "total": 20917
+  },
+  {
+    "date": "01/20/2016",
+    "production": 2,
+    "total": 20916
+  },
+  {
+    "date": "01/19/2016",
+    "production": 0,
+    "total": 20914
+  },
+  {
+    "date": "01/18/2016",
+    "production": 13,
+    "total": 20914
+  },
+  {
+    "date": "01/17/2016",
+    "production": 0,
+    "total": 20901
+  },
+  {
+    "date": "01/16/2016",
+    "production": 0,
+    "total": 20901
+  },
+  {
+    "date": "01/15/2016",
+    "production": 9,
+    "total": 20901
+  },
+  {
+    "date": "01/14/2016",
+    "production": 9,
+    "total": 20892
+  },
+  {
+    "date": "01/13/2016",
+    "production": 3,
+    "total": 20883
+  },
+  {
+    "date": "01/12/2016",
+    "production": 9,
+    "total": 20880
+  },
+  {
+    "date": "01/11/2016",
+    "production": 2,
+    "total": 20871
+  },
+  {
+    "date": "01/10/2016",
+    "production": 5,
+    "total": 20869
+  },
+  {
+    "date": "01/09/2016",
+    "production": 2,
+    "total": 20864
+  },
+  {
+    "date": "01/08/2016",
+    "production": 1,
+    "total": 20862
+  },
+  {
+    "date": "01/07/2016",
+    "production": 7,
+    "total": 20861
+  },
+  {
+    "date": "01/06/2016",
+    "production": 5,
+    "total": 20854
+  },
+  {
+    "date": "01/05/2016",
+    "production": 2,
+    "total": 20849
+  },
+  {
+    "date": "01/04/2016",
+    "production": 7,
+    "total": 20847
+  },
+  {
+    "date": "01/03/2016",
+    "production": 0,
+    "total": 20840
+  },
+  {
+    "date": "01/02/2016",
+    "production": 4,
+    "total": 20840
+  },
+  {
+    "date": "01/01/2016",
+    "production": 2,
+    "total": 20836
+  },
+  {
+    "date": "12/31/2015",
+    "production": 7,
+    "total": 20834
+  },
+  {
+    "date": "12/30/2015",
+    "production": 3,
+    "total": 20827
+  },
+  {
+    "date": "12/29/2015",
+    "production": 7,
+    "total": 20824
+  },
+  {
+    "date": "12/28/2015",
+    "production": 8,
+    "total": 20817
+  },
+  {
+    "date": "12/27/2015",
+    "production": 0,
+    "total": 20809
+  },
+  {
+    "date": "12/26/2015",
+    "production": 0,
+    "total": 20809
+  },
+  {
+    "date": "12/25/2015",
+    "production": 1,
+    "total": 20809
+  },
+  {
+    "date": "12/24/2015",
+    "production": 2,
+    "total": 20808
+  },
+  {
+    "date": "12/23/2015",
+    "production": 7,
+    "total": 20806
+  },
+  {
+    "date": "12/22/2015",
+    "production": 0,
+    "total": 20799
+  },
+  {
+    "date": "12/21/2015",
+    "production": 3,
+    "total": 20799
+  },
+  {
+    "date": "12/20/2015",
+    "production": 1,
+    "total": 20796
+  },
+  {
+    "date": "12/19/2015",
+    "production": 5,
+    "total": 20795
+  },
+  {
+    "date": "12/18/2015",
+    "production": 2,
+    "total": 20790
+  },
+  {
+    "date": "12/17/2015",
+    "production": 2,
+    "total": 20788
+  },
+  {
+    "date": "12/16/2015",
+    "production": 0,
+    "total": 20786
+  },
+  {
+    "date": "12/15/2015",
+    "production": 0,
+    "total": 20786
+  },
+  {
+    "date": "12/14/2015",
+    "production": 4,
+    "total": 20786
+  },
+  {
+    "date": "12/13/2015",
+    "production": 1,
+    "total": 20782
+  },
+  {
+    "date": "12/12/2015",
+    "production": 4,
+    "total": 20781
+  },
+  {
+    "date": "12/11/2015",
+    "production": 8,
+    "total": 20777
+  },
+  {
+    "date": "12/10/2015",
+    "production": 5,
+    "total": 20769
+  },
+  {
+    "date": "12/09/2015",
+    "production": 9,
+    "total": 20764
+  },
+  {
+    "date": "12/08/2015",
+    "production": 5,
+    "total": 20755
+  },
+  {
+    "date": "12/07/2015",
+    "production": 8,
+    "total": 20750
+  },
+  {
+    "date": "12/06/2015",
+    "production": 1,
+    "total": 20742
+  },
+  {
+    "date": "12/05/2015",
+    "production": 2,
+    "total": 20741
+  },
+  {
+    "date": "12/04/2015",
+    "production": 11,
+    "total": 20739
+  },
+  {
+    "date": "12/03/2015",
+    "production": 3,
+    "total": 20728
+  },
+  {
+    "date": "12/02/2015",
+    "production": 0,
+    "total": 20725
+  },
+  {
+    "date": "12/01/2015",
+    "production": 1,
+    "total": 20725
+  },
+  {
+    "date": "11/30/2015",
+    "production": 1,
+    "total": 20724
+  },
+  {
+    "date": "11/29/2015",
+    "production": 3,
+    "total": 20723
+  },
+  {
+    "date": "11/28/2015",
+    "production": 6,
+    "total": 20720
+  },
+  {
+    "date": "11/27/2015",
+    "production": 2,
+    "total": 20714
+  },
+  {
+    "date": "11/26/2015",
+    "production": 2,
+    "total": 20712
+  },
+  {
+    "date": "11/25/2015",
+    "production": 3,
+    "total": 20710
+  },
+  {
+    "date": "11/24/2015",
+    "production": 1,
+    "total": 20707
+  },
+  {
+    "date": "11/23/2015",
+    "production": 10,
+    "total": 20706
+  },
+  {
+    "date": "11/22/2015",
+    "production": 10,
+    "total": 20696
+  },
+  {
+    "date": "11/21/2015",
+    "production": 8,
+    "total": 20686
+  },
+  {
+    "date": "11/20/2015",
+    "production": 0,
+    "total": 20678
+  },
+  {
+    "date": "11/19/2015",
+    "production": 1,
+    "total": 20678
+  },
+  {
+    "date": "11/18/2015",
+    "production": 4,
+    "total": 20677
+  },
+  {
+    "date": "11/17/2015",
+    "production": 1,
+    "total": 20673
+  },
+  {
+    "date": "11/16/2015",
+    "production": 0,
+    "total": 20672
+  },
+  {
+    "date": "11/15/2015",
+    "production": 4,
+    "total": 20672
+  },
+  {
+    "date": "11/14/2015",
+    "production": 4,
+    "total": 20668
+  },
+  {
+    "date": "11/13/2015",
+    "production": 7,
+    "total": 20664
+  },
+  {
+    "date": "11/12/2015",
+    "production": 2,
+    "total": 20657
+  },
+  {
+    "date": "11/11/2015",
+    "production": 2,
+    "total": 20655
+  },
+  {
+    "date": "11/10/2015",
+    "production": 6,
+    "total": 20653
+  },
+  {
+    "date": "11/09/2015",
+    "production": 10,
+    "total": 20647
+  },
+  {
+    "date": "11/08/2015",
+    "production": 8,
+    "total": 20637
+  },
+  {
+    "date": "11/07/2015",
+    "production": 7,
+    "total": 20629
+  },
+  {
+    "date": "11/06/2015",
+    "production": 0,
+    "total": 20622
+  },
+  {
+    "date": "11/05/2015",
+    "production": 1,
+    "total": 20622
+  },
+  {
+    "date": "11/04/2015",
+    "production": 4,
+    "total": 20621
+  },
+  {
+    "date": "11/03/2015",
+    "production": 5,
+    "total": 20617
+  },
+  {
+    "date": "11/02/2015",
+    "production": 13,
+    "total": 20612
+  },
+  {
+    "date": "11/01/2015",
+    "production": 13,
+    "total": 20599
+  },
+  {
+    "date": "10/31/2015",
+    "production": 11,
+    "total": 20586
+  },
+  {
+    "date": "10/30/2015",
+    "production": 3,
+    "total": 20575
+  },
+  {
+    "date": "10/29/2015",
+    "production": 2,
+    "total": 20572
+  },
+  {
+    "date": "10/28/2015",
+    "production": 6,
+    "total": 20570
+  },
+  {
+    "date": "10/27/2015",
+    "production": 1,
+    "total": 20564
+  },
+  {
+    "date": "10/26/2015",
+    "production": 8,
+    "total": 20563
+  },
+  {
+    "date": "10/25/2015",
+    "production": 14,
+    "total": 20555
+  },
+  {
+    "date": "10/24/2015",
+    "production": 3,
+    "total": 20541
+  },
+  {
+    "date": "10/23/2015",
+    "production": 3,
+    "total": 20538
+  },
+  {
+    "date": "10/22/2015",
+    "production": 2,
+    "total": 20535
+  },
+  {
+    "date": "10/21/2015",
+    "production": 3,
+    "total": 20533
+  },
+  {
+    "date": "10/20/2015",
+    "production": 4,
+    "total": 20530
+  },
+  {
+    "date": "10/19/2015",
+    "production": 13,
+    "total": 20526
+  },
+  {
+    "date": "10/18/2015",
+    "production": 7,
+    "total": 20513
+  },
+  {
+    "date": "10/17/2015",
+    "production": 5,
+    "total": 20506
+  },
+  {
+    "date": "10/16/2015",
+    "production": 6,
+    "total": 20501
+  },
+  {
+    "date": "10/15/2015",
+    "production": 13,
+    "total": 20495
+  },
+  {
+    "date": "10/14/2015",
+    "production": 2,
+    "total": 20482
+  },
+  {
+    "date": "10/13/2015",
+    "production": 9,
+    "total": 20480
+  },
+  {
+    "date": "10/12/2015",
+    "production": 10,
+    "total": 20471
+  },
+  {
+    "date": "10/11/2015",
+    "production": 10,
+    "total": 20461
+  },
+  {
+    "date": "10/10/2015",
+    "production": 10,
+    "total": 20451
+  },
+  {
+    "date": "10/09/2015",
+    "production": 12,
+    "total": 20441
+  },
+  {
+    "date": "10/08/2015",
+    "production": 9,
+    "total": 20429
+  },
+  {
+    "date": "10/07/2015",
+    "production": 6,
+    "total": 20420
+  },
+  {
+    "date": "10/06/2015",
+    "production": 5,
+    "total": 20414
+  },
+  {
+    "date": "10/05/2015",
+    "production": 3,
+    "total": 20409
+  },
+  {
+    "date": "10/04/2015",
+    "production": 2,
+    "total": 20406
+  },
+  {
+    "date": "10/03/2015",
+    "production": 8,
+    "total": 20404
+  },
+  {
+    "date": "10/02/2015",
+    "production": 13,
+    "total": 20396
+  },
+  {
+    "date": "10/01/2015",
+    "production": 14,
+    "total": 20383
+  },
+  {
+    "date": "09/30/2015",
+    "production": 15,
+    "total": 20369
+  },
+  {
+    "date": "09/29/2015",
+    "production": 15,
+    "total": 20354
+  },
+  {
+    "date": "09/28/2015",
+    "production": 16,
+    "total": 20339
+  },
+  {
+    "date": "09/27/2015",
+    "production": 14,
+    "total": 20323
+  },
+  {
+    "date": "09/26/2015",
+    "production": 13,
+    "total": 20309
+  },
+  {
+    "date": "09/26/2015",
+    "production": 11,
+    "total": 20296
+  },
+  {
+    "date": "09/25/2015",
+    "production": 7,
+    "total": 20285
+  },
+  {
+    "date": "09/24/2015",
+    "production": 14,
+    "total": 20278
+  },
+  {
+    "date": "09/23/2015",
+    "production": 11,
+    "total": 20264
+  },
+  {
+    "date": "09/22/2015",
+    "production": 6,
+    "total": 20253
+  },
+  {
+    "date": "09/21/2015",
+    "production": 13,
+    "total": 20247
+  },
+  {
+    "date": "09/20/2015",
+    "production": 10,
+    "total": 20234
+  },
+  {
+    "date": "09/19/2015",
+    "production": 10,
+    "total": 20224
+  },
+  {
+    "date": "09/18/2015",
+    "production": 11,
+    "total": 20214
+  },
+  {
+    "date": "09/17/2015",
+    "production": 6,
+    "total": 20203
+  },
+  {
+    "date": "09/16/2015",
+    "production": 7,
+    "total": 20197
+  },
+  {
+    "date": "09/15/2015",
+    "production": 12,
+    "total": 20190
+  },
+  {
+    "date": "09/14/2015",
+    "production": 0,
+    "total": 20178
+  },
+  {
+    "date": "09/13/2015",
+    "production": 5,
+    "total": 20178
+  },
+  {
+    "date": "09/12/2015",
+    "production": 12,
+    "total": 20173
+  },
+  {
+    "date": "09/11/2015",
+    "production": 10,
+    "total": 20161
+  },
+  {
+    "date": "09/10/2015",
+    "production": 13,
+    "total": 20151
+  },
+  {
+    "date": "09/09/2015",
+    "production": 14,
+    "total": 20138
+  },
+  {
+    "date": "09/08/2015",
+    "production": 39,
+    "total": 20124
+  },
+  {
+    "date": "09/07/2015",
+    "production": 0,
+    "total": 20085
+  },
+  {
+    "date": "09/06/2015",
+    "production": 0,
+    "total": 20085
+  },
+  {
+    "date": "09/05/2015",
+    "production": 11,
+    "total": 20085
+  },
+  {
+    "date": "09/04/2015",
+    "production": 9,
+    "total": 20074
+  },
+  {
+    "date": "09/03/2015",
+    "production": 11,
+    "total": 20065
+  },
+  {
+    "date": "09/02/2015",
+    "production": 10,
+    "total": 20054
+  },
+  {
+    "date": "09/01/2015",
+    "production": 13,
+    "total": 20044
+  },
+  {
+    "date": "08/31/2015",
+    "production": 3,
+    "total": 20031
+  },
+  {
+    "date": "08/30/2015",
+    "production": 8,
+    "total": 20028
+  },
+  {
+    "date": "08/29/2015",
+    "production": 11,
+    "total": 20020
+  },
+  {
+    "date": "08/28/2015",
+    "production": 14,
+    "total": 20009
+  },
+  {
+    "date": "08/27/2015",
+    "production": 2,
+    "total": 19995
+  },
+  {
+    "date": "08/26/2015",
+    "production": 9,
+    "total": 19993
+  },
+  {
+    "date": "08/25/2015",
+    "production": 0,
+    "total": 19984
+  },
+  {
+    "date": "08/24/2015",
+    "production": 10,
+    "total": 19984
+  },
+  {
+    "date": "08/23/2015",
+    "production": 12,
+    "total": 19974
+  },
+  {
+    "date": "08/22/2015",
+    "production": 19,
+    "total": 19962
+  },
+  {
+    "date": "08/21/2015",
+    "production": 0,
+    "total": 19943
+  },
+  {
+    "date": "08/20/2015",
+    "production": 8,
+    "total": 19943
+  },
+  {
+    "date": "08/19/2015",
+    "production": 9,
+    "total": 19935
+  },
+  {
+    "date": "08/18/2015",
+    "production": 12,
+    "total": 19926
+  },
+  {
+    "date": "08/17/2015",
+    "production": 11,
+    "total": 19914
+  },
+  {
+    "date": "08/16/2015",
+    "production": 9,
+    "total": 19903
+  },
+  {
+    "date": "08/15/2015",
+    "production": 12,
+    "total": 19894
+  },
+  {
+    "date": "08/14/2015",
+    "production": 4,
+    "total": 19882
+  },
+  {
+    "date": "08/13/2015",
+    "production": 7,
+    "total": 19878
+  },
+  {
+    "date": "08/12/2015",
+    "production": 11,
+    "total": 19871
+  },
+  {
+    "date": "08/11/2015",
+    "production": 5,
+    "total": 19860
+  },
+  {
+    "date": "08/10/2015",
+    "production": 11,
+    "total": 19855
+  },
+  {
+    "date": "08/09/2015",
+    "production": 13,
+    "total": 19844
+  },
+  {
+    "date": "08/08/2015",
+    "production": 14,
+    "total": 19831
+  },
+  {
+    "date": "08/07/2015",
+    "production": 177,
+    "total": 19817
+  },
+  {
+    "date": "08/06/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "08/05/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "08/04/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "08/03/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "08/02/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "08/01/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/31/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/30/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/29/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/28/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/27/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/26/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/25/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/24/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/23/2015",
+    "production": 0,
+    "total": 19640
+  },
+  {
+    "date": "07/22/2015",
+    "production": 11,
+    "total": 19640
+  },
+  {
+    "date": "07/21/2015",
+    "production": 0,
+    "total": 19629
+  },
+  {
+    "date": "07/20/2015",
+    "production": 15,
+    "total": 19629
+  },
+  {
+    "date": "07/19/2015",
+    "production": 7,
+    "total": 19614
+  },
+  {
+    "date": "07/18/2015",
+    "production": 10,
+    "total": 19607
+  },
+  {
+    "date": "07/17/2015",
+    "production": 8,
+    "total": 19597
+  },
+  {
+    "date": "07/16/2015",
+    "production": 14,
+    "total": 19589
+  },
+  {
+    "date": "07/15/2015",
+    "production": 12,
+    "total": 19575
+  },
+  {
+    "date": "07/14/2015",
+    "production": 11,
+    "total": 19563
+  },
+  {
+    "date": "07/13/2015",
+    "production": 11,
+    "total": 19552
+  },
+  {
+    "date": "07/12/2015",
+    "production": 9,
+    "total": 19541
+  },
+  {
+    "date": "07/11/2015",
+    "production": 11,
+    "total": 19532
+  },
+  {
+    "date": "07/10/2015",
+    "production": 28,
+    "total": 19521
+  },
+  {
+    "date": "07/09/2015",
+    "production": 0,
+    "total": 19493
+  },
+  {
+    "date": "07/08/2015",
+    "production": 0,
+    "total": 19493
+  },
+  {
+    "date": "07/07/2015",
+    "production": 15,
+    "total": 19493
+  },
+  {
+    "date": "07/06/2015",
+    "production": 15,
+    "total": 19478
+  },
+  {
+    "date": "07/05/2015",
+    "production": 11,
+    "total": 19463
+  },
+  {
+    "date": "07/04/2015",
+    "production": 14,
+    "total": 19452
+  },
+  {
+    "date": "07/03/2015",
+    "production": 13,
+    "total": 19438
+  },
+  {
+    "date": "07/02/2015",
+    "production": 7,
+    "total": 19425
+  },
+  {
+    "date": "07/01/2015",
+    "production": 8,
+    "total": 19418
+  },
+  {
+    "date": "06/30/2015",
+    "production": 57,
+    "total": 19410
+  },
+  {
+    "date": "06/29/2015",
+    "production": 0,
+    "total": 19353
+  },
+  {
+    "date": "06/28/2015",
+    "production": 0,
+    "total": 19353
+  },
+  {
+    "date": "06/27/2015",
+    "production": 0,
+    "total": 19353
+  },
+  {
+    "date": "06/26/2015",
+    "production": 14,
+    "total": 19353
+  },
+  {
+    "date": "06/25/2015",
+    "production": 14,
+    "total": 19339
+  },
+  {
+    "date": "06/24/2015",
+    "production": 14,
+    "total": 19325
+  },
+  {
+    "date": "06/23/2015",
+    "production": 14,
+    "total": 19311
+  },
+  {
+    "date": "06/22/2015",
+    "production": 10,
+    "total": 19297
+  },
+  {
+    "date": "06/21/2015",
+    "production": 12,
+    "total": 19287
+  },
+  {
+    "date": "06/20/2015",
+    "production": 13,
+    "total": 19275
+  },
+  {
+    "date": "06/19/2015",
+    "production": 15,
+    "total": 19262
+  },
+  {
+    "date": "06/18/2015",
+    "production": 7,
+    "total": 19247
+  },
+  {
+    "date": "06/17/2015",
+    "production": 14,
+    "total": 19240
+  },
+  {
+    "date": "06/16/2015",
+    "production": 13,
+    "total": 19226
+  },
+  {
+    "date": "06/15/2015",
+    "production": 8,
+    "total": 19213
+  },
+  {
+    "date": "06/14/2015",
+    "production": 8,
+    "total": 19205
+  },
+  {
+    "date": "06/13/2015",
+    "production": 11,
+    "total": 19197
+  },
+  {
+    "date": "06/12/2015",
+    "production": 10,
+    "total": 19186
+  },
+  {
+    "date": "06/11/2015",
+    "production": 3,
+    "total": 19176
+  },
+  {
+    "date": "06/10/2015",
+    "production": 7,
+    "total": 19173
+  },
+  {
+    "date": "06/09/2015",
+    "production": 14,
+    "total": 19166
+  },
+  {
+    "date": "06/08/2015",
+    "production": 15,
+    "total": 19152
+  },
+  {
+    "date": "06/07/2015",
+    "production": 57,
+    "total": 19137
+  },
+  {
+    "date": "06/06/2015",
+    "production": 0,
+    "total": 19080
+  },
+  {
+    "date": "06/05/2015",
+    "production": 0,
+    "total": 19080
+  },
+  {
+    "date": "06/04/2015",
+    "production": 0,
+    "total": 19080
+  },
+  {
+    "date": "06/03/2015",
+    "production": 12,
+    "total": 19080
+  },
+  {
+    "date": "06/02/2015",
+    "production": 4,
+    "total": 19068
+  },
+  {
+    "date": "06/01/2015",
+    "production": 14,
+    "total": 19064
+  },
+  {
+    "date": "05/31/2015",
+    "production": 3,
+    "total": 19050
+  },
+  {
+    "date": "05/30/2015",
+    "production": 15,
+    "total": 19047
+  },
+  {
+    "date": "05/29/2015",
+    "production": 11,
+    "total": 19032
+  },
+  {
+    "date": "05/28/2015",
+    "production": 9,
+    "total": 19021
+  },
+  {
+    "date": "05/27/2015",
+    "production": 14,
+    "total": 19012
+  },
+  {
+    "date": "05/26/2015",
+    "production": 10,
+    "total": 18998
+  },
+  {
+    "date": "05/25/2015",
+    "production": 14,
+    "total": 18988
+  },
+  {
+    "date": "05/24/2015",
+    "production": 13,
+    "total": 18974
+  },
+  {
+    "date": "05/23/2015",
+    "production": 7,
+    "total": 18961
+  },
+  {
+    "date": "05/22/2015",
+    "production": 14,
+    "total": 18954
+  },
+  {
+    "date": "05/21/2015",
+    "production": 9,
+    "total": 18940
+  },
+  {
+    "date": "05/20/2015",
+    "production": 12,
+    "total": 18931
+  },
+  {
+    "date": "05/19/2015",
+    "production": 12,
+    "total": 18919
+  },
+  {
+    "date": "05/18/2015",
+    "production": 5,
+    "total": 18907
+  },
+  {
+    "date": "05/17/2015",
+    "production": 15,
+    "total": 18902
+  },
+  {
+    "date": "05/16/2015",
+    "production": 10,
+    "total": 18887
+  },
+  {
+    "date": "05/15/2015",
+    "production": 9,
+    "total": 18877
+  },
+  {
+    "date": "05/14/2015",
+    "production": 12,
+    "total": 18868
+  },
+  {
+    "date": "05/13/2015",
+    "production": 9,
+    "total": 18856
+  },
+  {
+    "date": "05/12/2015",
+    "production": 12,
+    "total": 18847
+  },
+  {
+    "date": "05/11/2015",
+    "production": 14,
+    "total": 18835
+  },
+  {
+    "date": "05/10/2015",
+    "production": 15,
+    "total": 18821
+  },
+  {
+    "date": "05/09/2015",
+    "production": 10,
+    "total": 18806
+  },
+  {
+    "date": "05/08/2015",
+    "production": 4,
+    "total": 18796
+  },
+  {
+    "date": "05/07/2015",
+    "production": 10,
+    "total": 18792
+  },
+  {
+    "date": "05/06/2015",
+    "production": 16,
+    "total": 18782
+  },
+  {
+    "date": "05/05/2015",
+    "production": 12,
+    "total": 18766
+  },
+  {
+    "date": "05/04/2015",
+    "production": 4,
+    "total": 18754
+  },
+  {
+    "date": "05/03/2015",
+    "production": 9,
+    "total": 18750
+  },
+  {
+    "date": "05/02/2015",
+    "production": 2,
+    "total": 18741
+  },
+  {
+    "date": "05/01/2015",
+    "production": 4,
+    "total": 18739
+  },
+  {
+    "date": "04/30/2015",
+    "production": 13,
+    "total": 18735
+  },
+  {
+    "date": "04/29/2015",
+    "production": 0,
+    "total": 18722
+  },
+  {
+    "date": "04/28/2015",
+    "production": 0,
+    "total": 18722
+  },
+  {
+    "date": "04/27/2015",
+    "production": 12,
+    "total": 18722
+  },
+  {
+    "date": "04/26/2015",
+    "production": 14,
+    "total": 18710
+  },
+  {
+    "date": "04/25/2015",
+    "production": 6,
+    "total": 18696
+  },
+  {
+    "date": "04/24/2015",
+    "production": 5,
+    "total": 18690
+  },
+  {
+    "date": "04/23/2015",
+    "production": 23,
+    "total": 18685
+  },
+  {
+    "date": "04/22/2015",
+    "production": 15,
+    "total": 18662
+  },
+  {
+    "date": "04/21/2015",
+    "production": 15,
+    "total": 18647
+  },
+  {
+    "date": "04/20/2015",
+    "production": 15,
+    "total": 18632
+  },
+  {
+    "date": "04/19/2015",
+    "production": 16,
+    "total": 18617
+  },
+  {
+    "date": "04/18/2015",
+    "production": 5,
+    "total": 18601
+  },
+  {
+    "date": "04/17/2015",
+    "production": 2,
+    "total": 18596
+  },
+  {
+    "date": "04/16/2015",
+    "production": 21,
+    "total": 18594
+  },
+  {
+    "date": "04/15/2015",
+    "production": 0,
+    "total": 18573
+  },
+  {
+    "date": "04/14/2015",
+    "production": 16,
+    "total": 18573
+  },
+  {
+    "date": "04/13/2015",
+    "production": 31,
+    "total": 18557
+  },
+  {
+    "date": "04/12/2015",
+    "production": 0,
+    "total": 18526
+  },
+  {
+    "date": "04/11/2015",
+    "production": 5,
+    "total": 18526
+  },
+  {
+    "date": "04/10/2015",
+    "production": 11,
+    "total": 18521
+  },
+  {
+    "date": "04/09/2015",
+    "production": 15,
+    "total": 18510
+  },
+  {
+    "date": "04/08/2015",
+    "production": 16,
+    "total": 18495
+  },
+  {
+    "date": "04/07/2015",
+    "production": 17,
+    "total": 18479
+  },
+  {
+    "date": "04/06/2015",
+    "production": 17,
+    "total": 18462
+  },
+  {
+    "date": "04/05/2015",
+    "production": 14,
+    "total": 18445
+  },
+  {
+    "date": "04/04/2015",
+    "production": 48,
+    "total": 18431
+  },
+  {
+    "date": "04/03/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "04/02/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "04/01/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "03/31/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "03/30/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "03/29/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "03/28/2015",
+    "production": 0,
+    "total": 18383
+  },
+  {
+    "date": "03/27/2015",
+    "production": 4,
+    "total": 18383
+  },
+  {
+    "date": "03/26/2015",
+    "production": 6,
+    "total": 18379
+  },
+  {
+    "date": "03/25/2015",
+    "production": 11,
+    "total": 18373
+  },
+  {
+    "date": "03/24/2015",
+    "production": 5,
+    "total": 18362
+  },
+  {
+    "date": "03/23/2015",
+    "production": 12,
+    "total": 18357
+  },
+  {
+    "date": "03/22/2015",
+    "production": 5,
+    "total": 18345
+  },
+  {
+    "date": "03/21/2015",
+    "production": 11,
+    "total": 18340
+  },
+  {
+    "date": "03/20/2015",
+    "production": 1,
+    "total": 18329
+  },
+  {
+    "date": "03/19/2015",
+    "production": 15,
+    "total": 18328
+  },
+  {
+    "date": "03/18/2015",
+    "production": 11,
+    "total": 18313
+  },
+  {
+    "date": "03/17/2015",
+    "production": 13,
+    "total": 18302
+  },
+  {
+    "date": "03/16/2015",
+    "production": 9,
+    "total": 18289
+  },
+  {
+    "date": "03/15/2015",
+    "production": 7,
+    "total": 18280
+  },
+  {
+    "date": "03/14/2015",
+    "production": 3,
+    "total": 18273
+  },
+  {
+    "date": "03/13/2015",
+    "production": 4,
+    "total": 18270
+  },
+  {
+    "date": "03/12/2015",
+    "production": 8,
+    "total": 18266
+  },
+  {
+    "date": "03/11/2015",
+    "production": 4,
+    "total": 18258
+  },
+  {
+    "date": "03/10/2015",
+    "production": 2,
+    "total": 18254
+  },
+  {
+    "date": "03/09/2015",
+    "production": 6,
+    "total": 18252
+  },
+  {
+    "date": "03/08/2015",
+    "production": 9,
+    "total": 18246
+  },
+  {
+    "date": "03/07/2015",
+    "production": 14,
+    "total": 18237
+  },
+  {
+    "date": "03/06/2015",
+    "production": 13,
+    "total": 18223
+  },
+  {
+    "date": "03/05/2015",
+    "production": 15,
+    "total": 18210
+  },
+  {
+    "date": "03/04/2015",
+    "production": 12,
+    "total": 18195
+  },
+  {
+    "date": "03/03/2015",
+    "production": 5,
+    "total": 18183
+  },
+  {
+    "date": "03/02/2015",
+    "production": 12,
+    "total": 18178
+  },
+  {
+    "date": "03/01/2015",
+    "production": 3,
+    "total": 18166
+  },
+  {
+    "date": "02/28/2015",
+    "production": 1,
+    "total": 18163
+  },
+  {
+    "date": "02/27/2015",
+    "production": 13,
+    "total": 18162
+  },
+  {
+    "date": "02/26/2015",
+    "production": 2,
+    "total": 18149
+  },
+  {
+    "date": "02/25/2015",
+    "production": 2,
+    "total": 18147
+  },
+  {
+    "date": "02/24/2015",
+    "production": 13,
+    "total": 18145
+  },
+  {
+    "date": "02/23/2015",
+    "production": 14,
+    "total": 18132
+  },
+  {
+    "date": "02/22/2015",
+    "production": 0,
+    "total": 18118
+  },
+  {
+    "date": "02/21/2015",
+    "production": 8,
+    "total": 18118
+  },
+  {
+    "date": "02/20/2015",
+    "production": 1,
+    "total": 18110
+  },
+  {
+    "date": "02/19/2015",
+    "production": 5,
+    "total": 18109
+  },
+  {
+    "date": "02/18/2015",
+    "production": 13,
+    "total": 18104
+  },
+  {
+    "date": "02/17/2015",
+    "production": 14,
+    "total": 18091
+  },
+  {
+    "date": "02/16/2015",
+    "production": 1,
+    "total": 18077
+  },
+  {
+    "date": "02/15/2015",
+    "production": 8,
+    "total": 18076
+  },
+  {
+    "date": "02/14/2015",
+    "production": 3,
+    "total": 18068
+  },
+  {
+    "date": "02/13/2015",
+    "production": 4,
+    "total": 18065
+  },
+  {
+    "date": "02/12/2015",
+    "production": 5,
+    "total": 18061
+  },
+  {
+    "date": "02/11/2015",
+    "production": 14,
+    "total": 18056
+  },
+  {
+    "date": "02/10/2015",
+    "production": 1,
+    "total": 18042
+  },
+  {
+    "date": "02/09/2015",
+    "production": 12,
+    "total": 18041
+  },
+  {
+    "date": "02/08/2015",
+    "production": 7,
+    "total": 18029
+  },
+  {
+    "date": "02/07/2015",
+    "production": 25,
+    "total": 18022
+  },
+  {
+    "date": "02/06/2015",
+    "production": 0,
+    "total": 17997
+  },
+  {
+    "date": "02/05/2015",
+    "production": 4,
+    "total": 17997
+  },
+  {
+    "date": "02/04/2015",
+    "production": 8,
+    "total": 17993
+  },
+  {
+    "date": "02/03/2015",
+    "production": 7,
+    "total": 17985
+  },
+  {
+    "date": "02/02/2015",
+    "production": 8,
+    "total": 17978
+  },
+  {
+    "date": "02/01/2015",
+    "production": 10,
+    "total": 17970
+  },
+  {
+    "date": "01/31/2015",
+    "production": 6,
+    "total": 17960
+  },
+  {
+    "date": "01/30/2015",
+    "production": 6,
+    "total": 17954
+  },
+  {
+    "date": "01/29/2015",
+    "production": 1,
+    "total": 17948
+  },
+  {
+    "date": "01/28/2015",
+    "production": 2,
+    "total": 17947
+  },
+  {
+    "date": "01/27/2015",
+    "production": 3,
+    "total": 17945
+  },
+  {
+    "date": "01/26/2015",
+    "production": 2,
+    "total": 17942
+  },
+  {
+    "date": "01/25/2015",
+    "production": 3,
+    "total": 17940
+  },
+  {
+    "date": "01/24/2015",
+    "production": 9,
+    "total": 17937
+  },
+  {
+    "date": "01/23/2015",
+    "production": 10,
+    "total": 17928
+  },
+  {
+    "date": "01/22/2015",
+    "production": 3,
+    "total": 17918
+  },
+  {
+    "date": "01/21/2015",
+    "production": 1,
+    "total": 17915
+  },
+  {
+    "date": "01/20/2015",
+    "production": 2,
+    "total": 17914
+  },
+  {
+    "date": "01/19/2015",
+    "production": 9,
+    "total": 17912
+  },
+  {
+    "date": "01/18/2015",
+    "production": 10,
+    "total": 17903
+  },
+  {
+    "date": "01/17/2015",
+    "production": 0,
+    "total": 17893
+  },
+  {
+    "date": "01/16/2015",
+    "production": 6,
+    "total": 17893
+  },
+  {
+    "date": "01/15/2015",
+    "production": 1,
+    "total": 17887
+  },
+  {
+    "date": "01/14/2015",
+    "production": 5,
+    "total": 17886
+  },
+  {
+    "date": "01/13/2015",
+    "production": 5,
+    "total": 17881
+  },
+  {
+    "date": "01/12/2015",
+    "production": 1,
+    "total": 17876
+  },
+  {
+    "date": "01/11/2015",
+    "production": 10,
+    "total": 17875
+  },
+  {
+    "date": "01/10/2015",
+    "production": 1,
+    "total": 17865
+  },
+  {
+    "date": "01/09/2015",
+    "production": 1,
+    "total": 17864
+  },
+  {
+    "date": "01/08/2015",
+    "production": 5,
+    "total": 17863
+  },
+  {
+    "date": "01/07/2015",
+    "production": 5,
+    "total": 17858
+  },
+  {
+    "date": "01/06/2015",
+    "production": 1,
+    "total": 17853
+  },
+  {
+    "date": "01/05/2015",
+    "production": 1,
+    "total": 17852
+  },
+  {
+    "date": "01/04/2015",
+    "production": 1,
+    "total": 17851
+  },
+  {
+    "date": "01/03/2015",
+    "production": 0,
+    "total": 17850
+  },
+  {
+    "date": "01/02/2015",
+    "production": 3,
+    "total": 17850
+  },
+  {
+    "date": "01/01/2015",
+    "production": 3,
+    "total": 17847
+  }
+]

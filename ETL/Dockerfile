@@ -8,4 +8,4 @@ RUN gem install json
 RUN mkdir /var/solardb
 COPY ./ /var/solardb/
 
-ENTRYPOINT ruby /var/solardb/coordinator.rb
+ENTRYPOINT ruby /var/solardb/coordinator.rb remove

@@ -58,8 +58,9 @@ def parseWeather(date)
         year = date.strftime("%Y")
         month = date.strftime("%m")
         day = date.strftime("%d")
-
-        result = `curl "https://api.darksky.net/forecast/3b332215ba74469aa0c8372fe4d9aa6c/47.6947,2.0014,#{year}-#{month}-#{day}T12:00:00" 2> /dev/null`
+        #c1cc01e19174da22a36b94e84cb16e89
+        #3b332215ba74469aa0c8372fe4d9aa6c
+        result = `curl "https://api.darksky.net/forecast/c1cc01e19174da22a36b94e84cb16e89/47.6947,2.0014,#{year}-#{month}-#{day}T12:00:00" 2> /dev/null`
         json = JSON.parse result
         temperature = json["currently"]["temperature"]
         humidity = json["currently"]["humidity"]
@@ -94,6 +95,7 @@ def parseSunshineRate(mcCityId, date)
         return -1
     end
 end
+
 #
 # def parseAirQuality(aqCity)
 #     begin

@@ -11,6 +11,28 @@ def getAllProduction()
     result
 end
 
+def getAllWeather()
+    result = @@db[:weather].find().to_a
+    result
+end
+
+def recordProduction(production)
+    begin
+        return false if !production['date'] || !production['production'] || !production['total']
+        day = Date.parse(production['date'])
+        #return false if date > Date.new()
+        prod = getProductionForDay(day)
+        if prod then
+            @@db[:production].find({"date" => "#{day.strftime("%m")}/#{day.strftime("%d")}/#{day.strftime("%Y")}"}).update_one('$set' => {"production": production['production'], "total": production['total']})
+        else
+            @@db[:production].insert_one({"date" => "#{day.strftime("%m")}/#{day.strftime("%d")}/#{day.strftime("%Y")}", "production": production['production'], "total": production['total']})
+        end
+        return true
+    rescue
+        return false
+    end
+end
+
 def getProductionForDay(day)
     result = @@db[:production].find({"date" => "#{day.strftime("%m")}/#{day.strftime("%d")}/#{day.strftime("%Y")}"}).to_a
     return result.first if result.length > 0
