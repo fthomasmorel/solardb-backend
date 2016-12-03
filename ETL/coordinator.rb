@@ -16,20 +16,21 @@ end
 
 if ARGV.length > 0 then
 
-    file = File.read("data.json")
-    json = JSON.parse file
-    for record in json do
-        db[:production].insert_one(record)
-    end
+    # file = File.read("/var/solardb/data.json")
+    # json = JSON.parse file
+    # for record in json do
+    #     db[:production].insert_one(record)
+    # end
 
     dateStart = Date.parse("01/01/2015")
     dateEnd = Date.today
     #db[:weather].delete_many({})
     for date in dateStart...dateEnd do
         sunshine = parseSunshineRate(config['MCCITY'], date)
-        temperature, humidity, windSpeed, cloudCover, classe = parseWeather(date)
-        weather = Weather.new(date, temperature, humidity, windSpeed, cloudCover, sunshine, classe)
-        db[:weather].insert_one(weather.to_json)
+        #temperature, humidity, windSpeed, cloudCover, classe = parseWeather(date)
+        #weather = Weather.new(date, temperature, humidity, windSpeed, cloudCover, sunshine, classe)
+        #db[:weather].insert_one(weather.to_json)
+        db[:weather].find({"date" => date}).update_one('$set' => {'sunshine' => sunshine})
     end
 end
 
