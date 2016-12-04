@@ -27,9 +27,9 @@ if ARGV.length > 0 then
     #db[:weather].delete_many({})
     for date in dateStart...dateEnd do
         sunshine = parseSunshineRate(config['MCCITY'], date)
-        #temperature, humidity, windSpeed, cloudCover, classe = parseWeather(date)
-        #weather = Weather.new(date, temperature, humidity, windSpeed, cloudCover, sunshine, classe)
-        #db[:weather].insert_one(weather.to_json)
+        temperature, humidity, windSpeed, cloudCover, classe = parseWeather(date)
+        weather = Weather.new(date, temperature, humidity, windSpeed, cloudCover, sunshine, classe)
+        db[:weather].insert_one(weather.to_json)
         db[:weather].find({"date" => date}).update_one('$set' => {'sunshine' => sunshine})
     end
 end

@@ -62,8 +62,8 @@ def getProductionRecordForMonth(date)
     year_p1 = date.strftime("%Y").to_i
     year_p1 += 1 if month_p1 == 13
     month_p1 = 1 if month_p1 == 13
-    dateEnd = Date.parse("01/#{format('%02d', month_p1)}/#{year_p1}").prev_day
-    for date in ([dateStart, Date.today].min...[dateEnd, Date.today].min) do
+    dateEnd = Date.parse("01/#{format('%02d', month_p1)}/#{year_p1}")
+    for date in ([dateStart, Date.today].min...[dateEnd, Date.today.next_day].min) do
         production = getProductionForDay(date)
         results << JSON.parse(production.to_json) if production
     end
@@ -93,8 +93,8 @@ def getWeatherForMonth(date)
     year_p1 = date.strftime("%Y").to_i
     year_p1 += 1 if month_p1 == 13
     month_p1 = 1 if month_p1 == 13
-    dateEnd = Date.parse("01/#{format('%02d', month_p1)}/#{year_p1}").prev_day
-    for date in ([dateStart, Date.today].min...[dateEnd, Date.today].min) do
+    dateEnd = Date.parse("01/#{format('%02d', month_p1)}/#{year_p1}")
+    for date in ([dateStart, Date.today].min...[dateEnd, Date.today.next_day].min) do
         weather = getWeatherForDay(date)
         results << JSON.parse(weather.to_json) if weather
     end
